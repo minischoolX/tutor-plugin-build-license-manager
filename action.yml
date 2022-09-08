@@ -24,7 +24,7 @@ inputs:
   plugin-version:
     description: 'Github branch or tag. Default: master'
     required: false
-    default: 'master'
+    default: 'main'
 
 outputs:
   docker-container-url:
